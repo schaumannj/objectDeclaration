@@ -6,10 +6,8 @@ the aim of this porject is simply class which consum any Java object instance an
 
 e.g. you have initialized POJO with string with name "text" and integer with name "number" properties with values for string is "long text" and value for integer is 5. then the output will be
 
-YourObject a = new YourObject();
-
-a.setText("long text");
-
-a.setNumber(5);
+`YourObject a = new YourObject();`
+`a.setText("long text");`
+`a.setNumber(5);`
 
 
